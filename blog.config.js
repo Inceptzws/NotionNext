@@ -198,16 +198,16 @@ const BLOG = {
     {
       name: '5 Seconds Before Sunrise',
       artist: 'VER:WEST / Tiësto',
-      url: 'https://music.163.com/#/song?id=1463045579&userid=1877363995',
+      url: 'https://music.163.com/#/song?id=1463045579&userid=1877363995=mp3',
       cover:
           'http://p2.music.126.net/seu2qomRmlNnvIxtAqdT1A==/109951165137130513.jpg'
     },
     {
       name: '5 Seconds Before Sunrise',
       artist: 'VER:WEST / Tiësto',
-      url: 'https://music.163.com/#/song?id=1463045579&userid=1877363995',
+      url: 'https://music.163.com/#/song?id=1463045579&userid=1877363995=mp3',
       cover:
-          'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+          'http://p2.music.126.net/seu2qomRmlNnvIxtAqdT1A==/109951165137130513.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
